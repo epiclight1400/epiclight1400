@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Gaw
+- 🔭 I’m currently working on NewsMap
 - 🌱 I’m currently learning python
 - 💬 Ask me about everything
 - 📫 How to reach me: discord
